@@ -1,1 +1,1 @@
-# exptracker
+This project was developed to make it simple to maintain financial records for inflow and outflow. It supports money management. With the help of this software, we can keep track of our earnings and expenses. We utilized the Django framework to build this project. Javascript, HTML, CSS, and Bootstrap are used for the front end. MySQL was used for the database, and Python was used for the backend. 
